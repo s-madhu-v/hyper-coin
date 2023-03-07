@@ -1,0 +1,27 @@
+{
+  "name": "hyper-coin",
+  "version": "1.0.0",
+  "description": "A crypto currency to trade computational power",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-madhu-v/hyper-coin.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Surisetti Madhu Vamsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-madhu-v/hyper-coin/issues"
+  },
+  "homepage": "https://github.com/s-madhu-v/hyper-coin#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
